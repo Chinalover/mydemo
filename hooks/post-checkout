@@ -1,2 +1,3 @@
 #!/bin/sh
-echo 'arbitrary code here'
+hostname
+id

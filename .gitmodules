@@ -1,3 +1,0 @@
-[submodule "mydemo"]
-	path = mydemo
-	url = git://testa.com:test/test.git -c core.gitProxy=/tmp/test.sh

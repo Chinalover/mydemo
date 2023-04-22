@@ -1,1 +1,1 @@
-bashworkflowjob/sync-workflow.sh
+workflowjob/sync-workflow.sh
